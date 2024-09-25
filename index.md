@@ -1,6 +1,6 @@
 **Let Pam, Inc.**		
 
-*Head of Product Strategy* | *San Francisco, CA* |	*August 2023* \- *Present*  
+*Head of Product Strategy*     *San Francisco, CA*    *August 2023* \- *Present*  
 
 *Let Pam, Inc. is a seed-stage digital marketplace that matches discharging hospital and skilled nursing patients to care homes that fit their budget and care needs*
 
