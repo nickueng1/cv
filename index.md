@@ -2,6 +2,10 @@
 
 *Head of Product Strategy*     *San Francisco, CA*    *August 2023* \- *Present*  
 
+
+
+
+
 *Let Pam, Inc. is a seed-stage digital marketplace that matches discharging hospital and skilled nursing patients to care homes that fit their budget and care needs*
 
 * Deployed the startup’s inaugural product network in Southern California, linking over 1200 residential care homes and 20 hospitals and skilled nursing facilities
