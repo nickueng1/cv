@@ -8,7 +8,7 @@
 * Tripled rate of monthly membership growth over two months by experimenting with product operating structure, redefining KPIs, prioritizing bugs post-launch, and organizing new processes across teams
 
 **BMNT**		
-*Project Lead*	| Palo Alto, CA  | *November 2021-June 2023*  
+*Project Lead*	| *Palo Alto, CA*  | *November 2021-June 2023*  
 *BMNT is a government consultancy, backed by Steve Blank, which accelerates engineering teams to operate at startup speed. To date, BMNT has saved over $1 billion in prototyping and implementation costs*
 
 * Reduced a Naval unmanned systems product roadmap from 18 months to 4 months by orchestrating collaboration across engineering, legal, design, and data science  
